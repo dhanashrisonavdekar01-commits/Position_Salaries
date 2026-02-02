@@ -43,9 +43,11 @@ The dataset contains job levels and corresponding salaries used by HR.
 
 ## 📈 Model Evaluation & Diagnostics
 The following diagnostics were used:
+- The models were evaluated using:
 - R² Score
 - Mean Absolute Error (MAE)
-- Residual analysis
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
 - Visual comparison of regression curves
 
 📌 **Result:**  
@@ -57,6 +59,7 @@ Polynomial Regression outperforms Linear Regression in terms of accuracy and fit
 - **Input Level:** 6.5
 - **Recommended Model:** Polynomial Regression
 - **Outcome:** Fair and data-driven salary estimation
+
 
 ---
 
