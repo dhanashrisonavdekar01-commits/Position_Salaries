@@ -14,17 +14,6 @@ Predict the **salary** that should be offered to the employee using regression m
 ## 📊 Dataset Description
 The dataset contains job levels and corresponding salaries used by HR.
 
-| Feature | Description |
-|------|------------|
-| Level | Job level of the employee |
-| Salary | Annual salary in USD |
-
-The dataset is:
-- Small and structured
-- Free from missing values
-- Suitable for regression modeling
-
----
 
 ## 🧠 Machine Learning Life Cycle Followed
 1. Business Understanding  
